@@ -1,6 +1,6 @@
 # CS4_Assignment
 
-Source Code by
+Source by
 ```
                 $$\                                                   
                 $$ |                                                  
