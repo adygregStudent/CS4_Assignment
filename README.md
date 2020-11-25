@@ -1,5 +1,7 @@
 # CS4_Assignment
 
+Use GCC C Compiler 10.x or Compile code here - https://www.programiz.com/c-programming/online-compiler/
+
 Source by
 ```                                                                                       
                      88                                                                 
