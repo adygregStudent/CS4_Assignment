@@ -1,6 +1,10 @@
 # CS4_Assignment
 
-Use GCC C Compiler 10.x or Compile code here - https://www.programiz.com/c-programming/online-compiler/
+Note
+```
+◉ Use GCC C Compiler 10.x or Compile code here - https://www.programiz.com/c-programming/online-compiler/
+◉ Please take Permission before using my Source
+```
 
 Source by
 ```                                                                                       
@@ -15,6 +19,8 @@ Source by
                              d8'       aa,    ,88                           aa,    ,88  
                             d8'         "Y8bbdP"                             "Y8bbdP"  /z
 ```
+
+Assignment
 ```
 Part One
 
