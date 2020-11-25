@@ -59,7 +59,7 @@ Part One
     ◉ Write a C program to convert Decimal to Hexadecimal number system.
     ◉ Write a C program to convert Hexadecimal to Binary number system.
     ◉ Write a C program to convert Hexadecimal to Octal number system.
-    ◉ Write a C program to convert Hexadecimal to Decimal number system. Pattern Exercises
+    ◉ Write a C program to convert Hexadecimal to Decimal number system.
 ```
 ```
 Part Two
