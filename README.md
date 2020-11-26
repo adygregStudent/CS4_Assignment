@@ -64,19 +64,102 @@ Part One
 ```
 Part Two
 
-    ◉ Write a C program to print the given star patterns.
-        Pyramid Star Pattern
-        Hollow Pyramid Star Pattern
-        Inverted Pyramid Star Pattern
-        Hollow Inverted Pyramid Star Pattern
-        Half Diamond Star Pattern
-        Mirrored Half Diamond Star Pattern
-    ◉ Write a C program to print the given number patterns Square number patterns 11111 11111 11111 11111 11111 
-        Number pattern 1 11111 00000 11111 00000 11111
-        Number pattern 2 01010 01010 01010 01010 01010
-        Number pattern 3 11111 10001 10001 10001 11111
-        Number pattern 4 11111 11111 11011 11111 11111
-        Number pattern 5 10101 01010 10101 01010 10101
+    ◉ Star pattern programs - Write a C program to print the given star patterns.
+
+        *
+        * * *
+        * * * * *
+        * * * * * * *
+        * * * * * * * * *
+        i) Pyramid Star Pattern
+
+        *
+        *    *
+        *        *
+        *            *
+        * * * * * * * * *
+        ii) Hollow Pyramid Star Pattern
+
+        * * * * * * * * *
+        * * * * * * *
+        * * * * *
+        * * *
+        *
+        iii) Inverted Pyramid Star Pattern
+
+        * * * * * * * * *
+        *           *
+        *       *
+        *   *
+        *
+        iv) Hollow Inverted Pyramid Star Pattern
+
+        *
+        * *
+        * * *
+        * * * *
+        * * * * *
+        * * * *
+        * * *
+        * *
+        *
+        v) Half Diamond Star Pattern
+
+           *
+          * *
+         * * *
+        * * * *
+       * * * * *
+        * * * *
+         * * *
+          * *
+           *
+        vi) Mirrored Half Diamond Star Pattern
+
+
+    ◉ Number pattern programs - Write a C program to print the given number patterns
+
+        Square number patterns
+        1 1 1 1 1
+        1 1 1 1 1
+        1 1 1 1 1
+        1 1 1 1 1
+        1 1 1 1 1
+
+            i) Number pattern 1
+            1 1 1 1 1
+            0 0 0 0 0
+            1 1 1 1 1
+            0 0 0 0 0
+            1 1 1 1 1
+
+            ii) Number pattern 2
+            0 1 0 1 0
+            0 1 0 1 0
+            0 1 0 1 0
+            0 1 0 1 0
+            0 1 0 1 0
+
+            iii) Number pattern 3
+            1 1 1 1 1
+            1 0 0 0 1
+            1 0 0 0 1
+            1 0 0 0 1
+            1 1 1 1 1
+
+            iv) Number pattern 4
+            1 1 1 1 1
+            1 1 1 1 1
+            1 1 0 1 1
+            1 1 1 1 1
+            1 1 1 1 1
+
+            v) Number pattern 5
+            1 0 1 0 1
+            0 1 0 1 0
+            1 0 1 0 1
+            0 1 0 1 0
+            1 0 1 0 1
 ```
 ```
 Part Three
