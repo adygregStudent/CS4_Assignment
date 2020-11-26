@@ -62,7 +62,7 @@ Part One
     ◉ Write a C program to convert Hexadecimal to Decimal number system.
 ```
 ```
-Part Two
+Part Two [Pattern]
 
     ◉ Star pattern programs - Write a C program to print the given star patterns.
 
@@ -162,7 +162,7 @@ Part Two
             1 0 1 0 1
 ```
 ```
-Part Three
+Part Three [If…Else]
 
     ◉ Write a C program to find maximum between two numbers.
     ◉ Write a C program to find maximum between three numbers.
@@ -188,7 +188,7 @@ Part Three
     ◉ Write a C program to input basic salary of an employee and calculate its Gross salary according to following: Basic Salary <= 10000 : HRA = 20%, DA = 80% Basic Salary <= 20000 : HRA = 25%, DA = 90% Basic Salary > 20000 : HRA = 30%, DA = 95% 23. Write a C program to input electricity unit charges and calculate total electricity bill according to the given condition: For first 50 units Rs. 0.50/unit For next 100 units Rs. 0.75/unit For next 100 units Rs. 1.20/unit For unit above 250 Rs. 1.50/unit An additional surcharge of 20% is added to the bill C 
 ```
 ```
-Part Four
+Part Four [C Functions]
 
     ◉ Write a C program to find cube of any number using function.
     ◉ Write a C program to find diameter, circumference and area of circle using functions.
