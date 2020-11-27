@@ -6,8 +6,13 @@
 
 */
 
-#include <stdio.h>
-#include <math.h>
+int power (int n, int p) {
+
+    if(p!=0)
+        return n*power(n, --p);
+    return 1;
+
+}
 
 int armstrongChecker (int n) {
 
@@ -25,7 +30,7 @@ int armstrongChecker (int n) {
     while (temp != 0) {
         
         remain = temp%10;
-        result += pow(remain, size);
+        result += power(remain, size);
         temp /= 10;
 
     }
