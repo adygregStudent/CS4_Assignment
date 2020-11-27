@@ -31,7 +31,7 @@ int main (void) {
     printf("Enter Two Numbers :: ");
     scanf("%d %d", &a, &b);
 
-    printf("HCF :: %d", lcm_finder(a, b));
+    printf("LCM :: %d", lcm_finder(a, b));
 
     return 0;
 
