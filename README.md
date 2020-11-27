@@ -2,7 +2,8 @@
 
 Note
 ```
-◉ Changelog [28/11/20] : Removed the use of <math.h> of ques 13, 30, 31, 37, 38 & 39
+◉ Changelog [28/11/20] : i)  Removed the use of <math.h>
+                         ii) Minor bugfix
 ◉ Use GCC C Compiler 10.x or Compile code here - https://www.programiz.com/c-programming/online-compiler/
 ◉ Please take Permission before using my Source
 ```
