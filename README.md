@@ -68,32 +68,32 @@ Part Two [Pattern]
 
     ◉ Star pattern programs - Write a C program to print the given star patterns.
 
-        *
-        * * *
-        * * * * *
-        * * * * * * *
+                *
+              * * *
+            * * * * *
+          * * * * * * *
         * * * * * * * * *
         i) Pyramid Star Pattern
 
-        *
-        *    *
-        *        *
-        *            *
+                *
+              *   *
+            *       *
+          *           *
         * * * * * * * * *
         ii) Hollow Pyramid Star Pattern
 
         * * * * * * * * *
-        * * * * * * *
-        * * * * *
-        * * *
-        *
+          * * * * * * *
+            * * * * *
+              * * *
+                *
         iii) Inverted Pyramid Star Pattern
 
         * * * * * * * * *
-        *           *
-        *       *
-        *   *
-        *
+          *           *
+            *       *
+              *   *
+                *
         iv) Hollow Inverted Pyramid Star Pattern
 
         *
