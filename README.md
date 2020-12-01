@@ -4,7 +4,7 @@ Note
 ```
 ◉ Use GCC C Compiler 10.x or Compile code here - https://www.programiz.com/c-programming/online-compiler/
 ◉ Please take Permission before using my Source
-◉ Report me if you see this Watermark
+◉ Report me if you see this Watermark in any other Repositories
   /*
       **Question**
       source by com.**Name**
