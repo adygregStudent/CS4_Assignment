@@ -2,10 +2,27 @@
 
 Note
 ```
-◉ Changelog [28/11/20] : i)  Removed the use of <math.h>
-                         ii) Minor bugfix
 ◉ Use GCC C Compiler 10.x or Compile code here - https://www.programiz.com/c-programming/online-compiler/
 ◉ Please take Permission before using my Source
+```
+ChangeLog
+```
+◉ CL 1.0 [01/12/20]
+  - Assignment Started
+
+◉ CL 1.0.1 [28/11/20]
+  - Completed Part 1 & Part 2
+  - Removed the use of <math.h>
+  - Minor bugfix
+  
+◉ CL 1.0.2 [01/12/20]
+  - Completed Part 3
+  - Minor bugfix
+  
+◉ CL 1.1 [01/12/20]
+  - Completed Part 4
+  - Reuse of <math.h>
+  
 ```
 
 Assignment
