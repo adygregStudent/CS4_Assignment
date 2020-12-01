@@ -22,7 +22,6 @@ ChangeLog
 ◉ CL 1.1 [01/12/20]
   - Completed Part 4
   - Reuse of <math.h>
-  
 ```
 
 Assignment
