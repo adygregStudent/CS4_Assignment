@@ -14,6 +14,7 @@ ChangeLog
   - Completed Part 1 & Part 2
   - Removed the use of <math.h>
   - Minor bugfix
+  - Updated README.md
   
 ◉ CL 1.0.2 [01/12/20]
   - Completed Part 3
@@ -22,6 +23,7 @@ ChangeLog
 ◉ CL 1.1 [01/12/20]
   - Completed Part 4
   - Reuse of <math.h>
+  - Updated README.md
 ```
 
 Assignment
