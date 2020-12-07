@@ -26,10 +26,14 @@ ChangeLog
   - Completed Part 3
   - Minor bugfix
   
-◉ CL 1.1 [01/12/20]
+◉ CL 1.0.3 [01/12/20]
   - Completed Part 4
   - Reuse of <math.h>
   - Updated README.md
+ 
+◉ CL 1.1 [07/12/20]
+  - Added Part Five [Array] in README.md
+  - Updates README.md
 ```
 
 Assignment
@@ -238,6 +242,17 @@ Part Four [C Functions]
     ◉ Write a C program to generate nth Fibonacci term using recursion.
     ◉ Write a C program to find GCD (HCF) of two numbers using recursion.
     ◉ Write a C program to find LCM of two numbers using recursion.
+```
+```
+Part Five [Array]
+    
+    ◉ Write a Program in C to insert element at a given location in array.
+    ◉ Write a Program in C to delete any element from the array.
+    ◉ Write a Program in C to search any element in the array.
+    ◉ Write a Program in C to sort elements of the array.
+    ◉ Write a Program in C to count occurrences of any number in an array.
+    ◉ Write a Program in C to find even and odd numbers in an array.
+    ◉ Write a Program in C to find largest and smallest element in the array.
 ```
 
 Source by
